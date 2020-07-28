@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-My name is Lincon Brito from Brazil (🇧🇷). I've been working as Front-End Developer. I'm passionate about open source projects, and I've always loved to produce a lot of content during my beginning career.
+My name is Lincon Brito from Brazil (🇧🇷). I've been working as Full-Stack Web Developer. I'm passionate about open source projects, and I've always loved to produce a lot of content during my beginning career.
 
 In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
+
+- 🌱 I’m currently learning Django, React.js and AI with Python.
 
 
 
@@ -17,7 +19,6 @@ Would you like to find me?
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
