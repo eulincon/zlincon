@@ -6,7 +6,7 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 
 - 🌱 I’m currently learning Django, React.js and AI with Python.
 
-
+- Generation of software developers to change the world with code.
 
 Would you like to find me?
 
