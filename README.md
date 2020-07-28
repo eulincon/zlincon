@@ -13,7 +13,9 @@ Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/zlincon)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zlincon&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zlincon&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlincon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
