@@ -19,8 +19,8 @@ Would you like to find me?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlincon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide_langs_below=.25&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=zlincon&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zlincon&hide_langs_below=.25&theme=radical">
 </p>
 
 
