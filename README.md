@@ -17,7 +17,7 @@ Would you like to find me?
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=zlincon&show_icons=true&theme=radical&line_height=33&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zlincon&layout=compact&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zlincon&layout=compact&theme=radical&langs_count=6">
 </p>
 
 
