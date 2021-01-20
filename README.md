@@ -11,6 +11,12 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 
 - Generation of software developers to change the world with code.
 
+My litle projects:
+- Game Survey - SDS1 - https://game-survey-sds1.netlify.app
+- DS DElivery - SDS2 - https://sds2-dsdeliver.netlify.app
+- Communicart - https://communicart.netlify.app
+- Proffy - NLW - https://friendly-aryabhata-80a4df.netlify.app
+
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/zlincon)
