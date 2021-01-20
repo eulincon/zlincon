@@ -12,10 +12,11 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 - Generation of software developers to change the world with code.
 
 My litle projects:
-- Game Survey - SDS1 - https://game-survey-sds1.netlify.app
-- DS DElivery - SDS2 - https://sds2-dsdeliver.netlify.app
-- Communicart - https://communicart.netlify.app
-- Proffy - NLW - https://friendly-aryabhata-80a4df.netlify.app
+- Game Survey - SDS1 - https://game-survey-sds1.netlify.app (Reacts.js & Java Spring)
+- DS DElivery - SDS2 - https://sds2-dsdeliver.netlify.app (React.js & Java Spring)
+- Communicart - https://communicart.netlify.app (React.js & Java Spring)
+- Proffy - NLW - https://friendly-aryabhata-80a4df.netlify.app (React.js)
+- Linconflix - Alura - https://linconflix.vercel.app (React.js)
 
 Would you like to find me?
 
