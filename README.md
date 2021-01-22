@@ -18,6 +18,8 @@ My litle projects:
 - Proffy - NLW - https://friendly-aryabhata-80a4df.netlify.app (React.js)
 - Linconflix - Alura - https://linconflix.vercel.app (React.js)
 
+Visit <a href="https://zlincon.github.io"> My protfolio page</a>
+
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/zlincon)
