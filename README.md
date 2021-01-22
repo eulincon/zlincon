@@ -18,7 +18,7 @@ My litle projects:
 - Proffy - NLW - https://friendly-aryabhata-80a4df.netlify.app (React.js)
 - Linconflix - Alura - https://linconflix.vercel.app (React.js)
 
-Visit <a href="https://zlincon.github.io"> My protfolio page</a> 📂
+Visit <a href="https://zlincon.github.io"> My portfolio page</a> 📂
 
 Would you like to find me?
 
