@@ -7,9 +7,8 @@ My name is Lincon Brito from Brazil (🇧🇷). I've been working as Full-Stack 
 
 In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
 
-- 🌱 I’m currently learning Django, React.js and AI with Python.
+- 🌱 I’m currently learning Java Spring, React.js and Python.
 - Tinkering with interactions on <a href="https://codepen.io/zlincon"> Codepen</a> 🏓
-
 - Generation of software developers to change the world with code.
 
 ---
@@ -59,6 +58,8 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 ### Would you like to find me?
 
 [<img align="left" alt="zlincon | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/zlincon)
+
+<br />
 
 ---
 
