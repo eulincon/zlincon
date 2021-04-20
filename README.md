@@ -57,7 +57,7 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 
 ### Would you like to find me?
 
-[<img align="left" alt="zlincon | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/zlincon)
+[<img align="left" alt="zlincon | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" target="_blank" />](https://www.linkedin.com/in/zlincon)
 
 <br />
 
