@@ -16,6 +16,7 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 ### My litle projects:
 - Game Survey - SDS1 - https://game-survey-sds1.netlify.app (Reacts.js & Java Spring)
 - DS DElivery - SDS2 - https://sds2-dsdeliver.netlify.app (React.js & Java Spring)
+- DSMovie - SDS6 - https://dsmovie-lincon.netlify.app/
 - Communicart - https://communicart.netlify.app (React.js & Java Spring)
 - Proffy - NLW - https://friendly-aryabhata-80a4df.netlify.app (React.js)
 - Linconflix - Alura - https://linconflix.vercel.app (React.js)
