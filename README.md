@@ -64,15 +64,15 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 ### Would you like to find me?
 
 
-[<img align="left" alt="zlincon | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/zlincon)
+[<img align="left" alt="eulincon | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/zlincon)
 
 <br />
 
 ---
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=zlincon&show_icons=true&theme=radical&line_height=33&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zlincon&layout=compact&theme=radical&langs_count=6&card_width=250">
+  <img src = "https://github-readme-stats.vercel.app/api?username=eulincon&show_icons=true&theme=radical&line_height=33&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=eulincon&layout=compact&theme=radical&langs_count=6&card_width=250">
 </p>
 
 <!--
